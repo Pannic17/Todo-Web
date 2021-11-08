@@ -1,4 +1,8 @@
-# html_02
+# Toto Web App
+
+A small web app function as todo check list.
+Referance: https://github.com/zxuqian/vuejs-examples
+A practice copy from Bilibili BV1wy4y1k7Lr
 
 ## Project setup
 ```
